@@ -1,3 +1,3 @@
 module github.com/vishnukg/LearnGoPocket
 
-go 1.24.3
+go 1.24.4
