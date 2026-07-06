@@ -1,7 +1,7 @@
 package main
 
-func ExampleMain() {
+func Example_main() {
 	main()
 	// Output:
-	// Hello world
+	// Hello, World!
 }
